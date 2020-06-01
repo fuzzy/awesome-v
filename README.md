@@ -103,6 +103,7 @@
 - [chalk](https://github.com/etienne-napoleone/chalk) - Colorize strings in the terminal.
 - [crayon](https://github.com/thecodrr/crayon) - Paint your terminal output like Picasso. 🖍️🎨
 - [cjson](https://github.com/lydiandy/cjson) - Wrap cJSON for vlang.
+- [vcfg](https://github.com/fuzzy/vcfg) - Enhanced INI style config file parser.
 
 ### Graphics
 
